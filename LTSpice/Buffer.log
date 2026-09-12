@@ -1,0 +1,15 @@
+LTspice 24.1.10 for Windows
+Circuit: E:\Work\Projects\IRig\LTSpice\Buffer.net
+Start Time: Sat Sep 12 15:12:10 2026
+solver = Normal
+Maximum thread count: 22
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.066 seconds.
+
+Files loaded:
+E:\Work\Projects\IRig\LTSpice\Buffer.net
+C:\Users\parid\AppData\Local\LTspice\lib\cmp\standard.bjt
+
