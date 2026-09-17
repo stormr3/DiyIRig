@@ -24,6 +24,11 @@ Jokes aside, the first real hurdle after making the circuit and plugging the gui
 The next hurdle was the latency. It still sounded pretty bad due to the delay, which was also messing up the person playing. This was rather a simple fix because it was a software issue, so we used a different audio driver: ASIO4ALL. And with this, everything suddenly clicked. The project was complete. 
 Well, it was still on a breadboard, but whoooo cares.
 
+## Improvements to be made
+[] - Transfer the circuit to a perfboard.
+[] - Have Proper connectors for the 3.5mm and 6.35mm audio jacks.
+[] - (Ambitious) Create a casing for the circuit to make it a user viable product.
+
 ## The Scrap Bin Parts List:
 I built this using literal leftovers from the previous project. It's super cheap:
 
