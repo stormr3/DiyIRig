@@ -25,9 +25,9 @@ The next hurdle was the latency. It still sounded pretty bad due to the delay, w
 Well, it was still on a breadboard, but whoooo cares.
 
 ## Improvements to be made
-[] - Transfer the circuit to a perfboard.
-[] - Have Proper connectors for the 3.5mm and 6.35mm audio jacks.
-[] - (Ambitious) Create a casing for the circuit to make it a user viable product.
+- [ ] Transfer the circuit to a perfboard.
+- [ ] Have Proper connectors for the 3.5mm and 6.35mm audio jacks.
+- [ ] (Ambitious) Create a casing for the circuit to make it a user viable product.
 
 ## The Scrap Bin Parts List:
 I built this using literal leftovers from the previous project. It's super cheap:
